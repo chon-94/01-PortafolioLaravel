@@ -10,7 +10,7 @@
 <body>
     @section('content')
 
-creaciones aca se crea se crea en esta parte  para luego verlas en otro {{ $collection->links() }}      
+creaciones aca se crea se crea en esta parte  para luego verlas en otro   
     @endsection
 </body>
 </html>
